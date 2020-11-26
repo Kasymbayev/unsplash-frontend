@@ -1,0 +1,46 @@
+@media (max-width: 767px) {
+
+  .xs-visible {
+    display: block !important
+  }
+  .xs-none {
+    display: none !important;
+  }
+
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .sm-visible {
+    display: block !important
+  }
+  .sm-none {
+    display: none !important;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1329px) {
+  .md-visible {
+    display: block !important
+  }
+  .md-none {
+    display: none !important;
+  }
+}
+
+@media (min-width: 1330px) and (max-width: 1439px) {
+  .md-visible {
+    display: block !important
+  }
+  .md-none {
+    display: none !important;
+  }
+}
+
+@media (min-width: 1440px) and (max-width: 2600px) {
+  .lg-visible {
+    display: block !important
+  }
+  .lg-none {
+    display: none !important;
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "RocketFirm",
+  "version": "1.0.0",
+  "author": "Yertai Kassymbayev <kasymbaayev@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/pwa": "^3.0.2",
+    "core-js": "^3.6.5",
+    "normalize.scss": "^0.1.0",
+    "nuxt": "^2.14.6",
+    "swiper": "^6.3.4",
+    "vue-awesome-swiper": "^4.1.1",
+    "vuex": "latest",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "sass": "^1.29.0",
+    "sass-loader": "^10.1.0"
+  }
+}
